@@ -15,7 +15,7 @@ def process(url, web_page_path = None, data_path = None):
     some_logic(data)
     print(some_logic(data))
 
-URL = "https://coinmarketcap.com/view/collectibles-nfts/"
+URL = "https://coinmarketcap.com/"
 FILE_PATH = "crypto.html"
 PARSED_FILE_PATH = "crypto.json"
 process(URL, FILE_PATH, PARSED_FILE_PATH)

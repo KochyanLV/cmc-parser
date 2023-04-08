@@ -24,7 +24,7 @@ class Parser:
                 volume_24h = coin.find(class_="sc-4984dd93-0 jZrMxO")
                 supply = coin.find(class_="sc-4984dd93-0 WfVLk")
                 if name:
-                    curr.append("NFT rank = " + rank.text)
+                    curr.append("Rank = " + rank.text)
                     curr.append("Name - " + name.text)
                     curr.append("Price = " + price.text)
                     curr.append("Market cap = " + market_cap.text)
