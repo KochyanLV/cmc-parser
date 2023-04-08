@@ -1,0 +1,802 @@
+{
+    "1": [
+        "NFT rank = 38",
+        "Name - APE",
+        "Price = $4.22",
+        "Market cap = $1,553,157,733",
+        "Volume(24h) = $1.55B",
+        "Supply = 368,593,750 APE"
+    ],
+    "2": [
+        "NFT rank = 40",
+        "Name - ICP",
+        "Price = $4.94",
+        "Market cap = $1,474,463,656",
+        "Volume(24h) = $1.47B",
+        "Supply = 298,510,029 ICP"
+    ],
+    "3": [
+        "NFT rank = 45",
+        "Name - MANA",
+        "Price = $0.6071",
+        "Market cap = $1,126,058,767",
+        "Volume(24h) = $1.13B",
+        "Supply = 1,855,084,192 MANA"
+    ],
+    "4": [
+        "NFT rank = 46",
+        "Name - STX",
+        "Price = $0.8134",
+        "Market cap = $1,117,270,753",
+        "Volume(24h) = $1.12B",
+        "Supply = 1,372,432,440 STX"
+    ],
+    "5": [
+        "NFT rank = 49",
+        "Name - THETA",
+        "Price = $1.06",
+        "Market cap = $1,057,312,281",
+        "Volume(24h) = $1.06B",
+        "Supply = 1,000,000,000 THETA"
+    ],
+    "6": [
+        "NFT rank = 50",
+        "Name - CFX",
+        "Price = $0.3779",
+        "Market cap = $1,049,842,533",
+        "Volume(24h) = $1.05B",
+        "Supply = 2,781,605,086 CFX"
+    ],
+    "7": [
+        "NFT rank = 51",
+        "Name - XTZ",
+        "Price = $1.10",
+        "Market cap = $1,029,336,802",
+        "Volume(24h) = $1.03B",
+        "Supply = 933,478,723 XTZ"
+    ],
+    "8": [
+        "NFT rank = 52",
+        "Name - FLOW",
+        "Price = $0.9939",
+        "Market cap = $1,029,904,210",
+        "Volume(24h) = $1.03B",
+        "Supply = 1,036,200,000 FLOW"
+    ],
+    "9": [
+        "NFT rank = 54",
+        "Name - AXS",
+        "Price = $8.64",
+        "Market cap = $1,001,131,851",
+        "Volume(24h) = $1.00B",
+        "Supply = 115,949,113 AXS"
+    ],
+    "10": [
+        "NFT rank = 55",
+        "Name - SAND",
+        "Price = $0.6454",
+        "Market cap = $967,010,567",
+        "Volume(24h) = $967.01M",
+        "Supply = 1,499,470,108 SAND"
+    ],
+    "11": [
+        "NFT rank = 56",
+        "Name - CHZ",
+        "Price = $0.1405",
+        "Market cap = $943,404,682",
+        "Volume(24h) = $943.40M",
+        "Supply = 6,788,674,440 CHZ"
+    ],
+    "12": [
+        "NFT rank = 57",
+        "Name - IMX",
+        "Price = $1.03",
+        "Market cap = $896,305,519",
+        "Volume(24h) = $896.31M",
+        "Supply = 868,583,515 IMX"
+    ],
+    "13": [
+        "NFT rank = 69",
+        "Name - CAKE",
+        "Price = $3.66",
+        "Market cap = $684,620,604",
+        "Volume(24h) = $684.62M",
+        "Supply = 187,306,002 CAKE"
+    ],
+    "14": [
+        "NFT rank = 89",
+        "Name - RNDR",
+        "Price = $1.29",
+        "Market cap = $466,073,854",
+        "Volume(24h) = $466.07M",
+        "Supply = 361,444,954 RNDR"
+    ],
+    "15": [
+        "NFT rank = 91",
+        "Name - ENJ",
+        "Price = $0.4642",
+        "Market cap = $463,005,146",
+        "Volume(24h) = $463.01M",
+        "Supply = 1,000,000,000 ENJ"
+    ],
+    "16": [
+        "NFT rank = 98",
+        "Name - MASK",
+        "Price = $5.40",
+        "Market cap = $400,825,320",
+        "Volume(24h) = $400.83M",
+        "Supply = 74,162,500 MASK"
+    ],
+    "17": [
+        "NFT rank = 111",
+        "Name - ROSE",
+        "Price = $0.05905",
+        "Market cap = $337,628,496",
+        "Volume(24h) = $337.63M",
+        "Supply = 5,725,718,533 ROSE"
+    ],
+    "18": [
+        "NFT rank = 126",
+        "Name - FET",
+        "Price = $0.3445",
+        "Market cap = $281,942,078",
+        "Volume(24h) = $281.94M",
+        "Supply = 818,912,300 FET"
+    ],
+    "19": [
+        "NFT rank = 127",
+        "Name - GALA",
+        "Price = $0.04005",
+        "Market cap = $279,467,994",
+        "Volume(24h) = $279.47M",
+        "Supply = 6,977,205,436 GALA"
+    ],
+    "20": [
+        "NFT rank = 140",
+        "Name - SUSHI",
+        "Price = $1.13",
+        "Market cap = $250,058,535",
+        "Volume(24h) = $250.06M",
+        "Supply = 222,257,372 SUSHI"
+    ],
+    "21": [
+        "NFT rank = 143",
+        "Name - BLUR",
+        "Price = $0.5601",
+        "Market cap = $242,269,990",
+        "Volume(24h) = $242.27M",
+        "Supply = 432,240,038 BLUR"
+    ],
+    "22": [
+        "NFT rank = 150",
+        "Name - GMT",
+        "Price = $0.3789",
+        "Market cap = $227,328,972",
+        "Volume(24h) = $227.33M",
+        "Supply = 600,000,000 GMT"
+    ],
+    "23": [
+        "NFT rank = 171",
+        "Name - WAXP",
+        "Price = $0.07538",
+        "Market cap = $183,610,891",
+        "Volume(24h) = $183.61M",
+        "Supply = 2,438,921,200 WAXP"
+    ],
+    "24": [
+        "NFT rank = 176",
+        "Name - CKB",
+        "Price = $0.004325",
+        "Market cap = $174,109,420",
+        "Volume(24h) = $174.11M",
+        "Supply = 40,291,146,968 CKB"
+    ],
+    "25": [
+        "NFT rank = 182",
+        "Name - DGB",
+        "Price = $0.009464",
+        "Market cap = $152,843,440",
+        "Volume(24h) = $152.84M",
+        "Supply = 16,142,460,047 DGB"
+    ],
+    "26": [
+        "NFT rank = 184",
+        "Name - ILV",
+        "Price = $59.23",
+        "Market cap = $150,146,083",
+        "Volume(24h) = $150.15M",
+        "Supply = 2,528,661 ILV"
+    ],
+    "27": [
+        "NFT rank = 190",
+        "Name - RLC",
+        "Price = $1.67",
+        "Market cap = $135,435,685",
+        "Volume(24h) = $135.44M",
+        "Supply = 80,999,785 RLC"
+    ],
+    "28": [
+        "NFT rank = 200",
+        "Name - TRAC",
+        "Price = $0.346",
+        "Market cap = $126,513,748",
+        "Volume(24h) = $126.51M",
+        "Supply = 365,481,590 TRAC"
+    ],
+    "29": [
+        "NFT rank = 219",
+        "Name - WEMIX",
+        "Price = $1.27",
+        "Market cap = $314,204,415",
+        "Volume(24h) = $314.20M",
+        "Supply = 246,649,655 WEMIX"
+    ],
+    "30": [
+        "NFT rank = 230",
+        "Name - SURE",
+        "Price = $0.006975",
+        "Market cap = $189,671,180",
+        "Volume(24h) = $189.67M",
+        "Supply = 26,790,063,175 SURE"
+    ],
+    "31": [
+        "NFT rank = 233",
+        "Name - LYXe",
+        "Price = $9.69",
+        "Market cap = $150,027,769",
+        "Volume(24h) = $150.03M",
+        "Supply = 15,475,916 LYXe"
+    ],
+    "32": [
+        "NFT rank = 243",
+        "Name - SYS",
+        "Price = $0.1607",
+        "Market cap = $121,116,974",
+        "Volume(24h) = $121.12M",
+        "Supply = 753,571,731 SYS"
+    ],
+    "33": [
+        "NFT rank = 245",
+        "Name - ALI",
+        "Price = $0.03322",
+        "Market cap = $119,191,020",
+        "Volume(24h) = $119.19M",
+        "Supply = 3,588,163,660 ALI"
+    ],
+    "34": [
+        "NFT rank = 251",
+        "Name - SLP",
+        "Price = $0.002738",
+        "Market cap = $115,686,568",
+        "Volume(24h) = $115.69M",
+        "Supply = 42,253,763,441 SLP"
+    ],
+    "35": [
+        "NFT rank = 258",
+        "Name - CHR",
+        "Price = $0.1628",
+        "Market cap = $111,790,313",
+        "Volume(24h) = $111.79M",
+        "Supply = 686,549,902 CHR"
+    ],
+    "36": [
+        "NFT rank = 263",
+        "Name - COCOS",
+        "Price = $1.53",
+        "Market cap = $108,559,318",
+        "Volume(24h) = $108.56M",
+        "Supply = 71,051,748 COCOS"
+    ],
+    "37": [
+        "NFT rank = 267",
+        "Name - NFT",
+        "Price = $0.0000003792",
+        "Market cap = $105,064,712",
+        "Volume(24h) = $105.06M",
+        "Supply = 277,080,562,500,000 NFT"
+    ],
+    "38": [
+        "NFT rank = 279",
+        "Name - PYR",
+        "Price = $3.64",
+        "Market cap = $98,998,491",
+        "Volume(24h) = $99.00M",
+        "Supply = 27,182,227 PYR"
+    ],
+    "39": [
+        "NFT rank = 284",
+        "Name - UOS",
+        "Price = $0.3188",
+        "Market cap = $96,835,079",
+        "Volume(24h) = $96.84M",
+        "Supply = 303,793,578 UOS"
+    ],
+    "40": [
+        "NFT rank = 292",
+        "Name - WILD",
+        "Price = $0.3744",
+        "Market cap = $93,483,951",
+        "Volume(24h) = $93.48M",
+        "Supply = 249,690,684 WILD"
+    ],
+    "41": [
+        "NFT rank = 296",
+        "Name - MBOX",
+        "Price = $0.4903",
+        "Market cap = $91,275,121",
+        "Volume(24h) = $91.28M",
+        "Supply = 186,168,696 MBOX"
+    ],
+    "42": [
+        "NFT rank = 322",
+        "Name - ALICE",
+        "Price = $1.65",
+        "Market cap = $79,518,545",
+        "Volume(24h) = $79.52M",
+        "Supply = 48,068,157 ALICE"
+    ],
+    "43": [
+        "NFT rank = 332",
+        "Name - RACA",
+        "Price = $0.000224",
+        "Market cap = $74,952,974",
+        "Volume(24h) = $74.95M",
+        "Supply = 334,651,566,604 RACA"
+    ],
+    "44": [
+        "NFT rank = 337",
+        "Name - TLM",
+        "Price = $0.02084",
+        "Market cap = $72,971,599",
+        "Volume(24h) = $72.97M",
+        "Supply = 3,501,387,263 TLM"
+    ],
+    "45": [
+        "NFT rank = 343",
+        "Name - VOLT",
+        "Price = $0.000001273",
+        "Market cap = $69,752,435",
+        "Volume(24h) = $69.75M",
+        "Supply = 54,766,287,142,827 VOLT"
+    ],
+    "46": [
+        "NFT rank = 345",
+        "Name - LOOKS",
+        "Price = $0.1477",
+        "Market cap = $69,262,918",
+        "Volume(24h) = $69.26M",
+        "Supply = 469,539,052 LOOKS"
+    ],
+    "47": [
+        "NFT rank = 346",
+        "Name - CEEK",
+        "Price = $0.08606",
+        "Market cap = $69,343,049",
+        "Volume(24h) = $69.34M",
+        "Supply = 805,717,779 CEEK"
+    ],
+    "48": [
+        "NFT rank = 350",
+        "Name - BSW",
+        "Price = $0.1833",
+        "Market cap = $68,358,400",
+        "Volume(24h) = $68.36M",
+        "Supply = 373,023,661 BSW"
+    ],
+    "49": [
+        "NFT rank = 358",
+        "Name - VRA",
+        "Price = $0.006213",
+        "Market cap = $64,068,157",
+        "Volume(24h) = $64.07M",
+        "Supply = 10,305,680,354 VRA"
+    ],
+    "50": [
+        "NFT rank = 359",
+        "Name - OGN",
+        "Price = $0.1249",
+        "Market cap = $63,618,740",
+        "Volume(24h) = $63.62M",
+        "Supply = 509,557,665 OGN"
+    ],
+    "51": [
+        "NFT rank = 364",
+        "Name - XCAD",
+        "Price = $1.53",
+        "Market cap = $62,570,914",
+        "Volume(24h) = $62.57M",
+        "Supply = 40,922,442 XCAD"
+    ],
+    "52": [
+        "NFT rank = 376",
+        "Name - YGG",
+        "Price = $0.2601",
+        "Market cap = $58,837,228",
+        "Volume(24h) = $58.84M",
+        "Supply = 226,244,712 YGG"
+    ],
+    "53": [
+        "NFT rank = 391",
+        "Name - SUPER",
+        "Price = $0.1371",
+        "Market cap = $55,381,503",
+        "Volume(24h) = $55.38M",
+        "Supply = 403,829,654 SUPER"
+    ],
+    "54": [
+        "NFT rank = 402",
+        "Name - DAR",
+        "Price = $0.1703",
+        "Market cap = $52,873,589",
+        "Volume(24h) = $52.87M",
+        "Supply = 310,491,258 DAR"
+    ],
+    "55": [
+        "NFT rank = 417",
+        "Name - EFI",
+        "Price = $0.07869",
+        "Market cap = $48,949,363",
+        "Volume(24h) = $48.95M",
+        "Supply = 622,052,170 EFI"
+    ],
+    "56": [
+        "NFT rank = 419",
+        "Name - GHST",
+        "Price = $1.07",
+        "Market cap = $48,428,133",
+        "Volume(24h) = $48.43M",
+        "Supply = 45,096,312 GHST"
+    ],
+    "57": [
+        "NFT rank = 428",
+        "Name - GODS",
+        "Price = $0.2221",
+        "Market cap = $46,470,092",
+        "Volume(24h) = $46.47M",
+        "Supply = 209,191,180 GODS"
+    ],
+    "58": [
+        "NFT rank = 441",
+        "Name - LTO",
+        "Price = $0.1069",
+        "Market cap = $44,165,143",
+        "Volume(24h) = $44.17M",
+        "Supply = 412,958,983 LTO"
+    ],
+    "59": [
+        "NFT rank = 443",
+        "Name - RARE",
+        "Price = $0.122",
+        "Market cap = $43,800,073",
+        "Volume(24h) = $43.80M",
+        "Supply = 359,147,763 RARE"
+    ],
+    "60": [
+        "NFT rank = 461",
+        "Name - TVK",
+        "Price = $0.04028",
+        "Market cap = $40,282,487",
+        "Volume(24h) = $40.28M",
+        "Supply = 1,000,380,426 TVK"
+    ],
+    "61": [
+        "NFT rank = 463",
+        "Name - SWEAT",
+        "Price = $0.009032",
+        "Market cap = $40,062,781",
+        "Volume(24h) = $40.06M",
+        "Supply = 4,442,531,114 SWEAT"
+    ],
+    "62": [
+        "NFT rank = 465",
+        "Name - TLOS",
+        "Price = $0.1474",
+        "Market cap = $39,827,886",
+        "Volume(24h) = $39.83M",
+        "Supply = 270,123,444 TLOS"
+    ],
+    "63": [
+        "NFT rank = 470",
+        "Name - BAKE",
+        "Price = $0.2001",
+        "Market cap = $38,719,784",
+        "Volume(24h) = $38.72M",
+        "Supply = 193,529,260 BAKE"
+    ],
+    "64": [
+        "NFT rank = 472",
+        "Name - POLIS",
+        "Price = $0.2501",
+        "Market cap = $38,267,964",
+        "Volume(24h) = $38.27M",
+        "Supply = 153,005,849 POLIS"
+    ],
+    "65": [
+        "NFT rank = 481",
+        "Name - LOKA",
+        "Price = $0.4997",
+        "Market cap = $52,740,642",
+        "Volume(24h) = $52.74M",
+        "Supply = 105,542,307 LOKA"
+    ],
+    "66": [
+        "NFT rank = 483",
+        "Name - UFO",
+        "Price = $0.000001411",
+        "Market cap = $36,348,999",
+        "Volume(24h) = $36.35M",
+        "Supply = 25,757,575,757,576 UFO"
+    ],
+    "67": [
+        "NFT rank = 494",
+        "Name - ERN",
+        "Price = $2.03",
+        "Market cap = $35,607,609",
+        "Volume(24h) = $35.61M",
+        "Supply = 17,539,155 ERN"
+    ],
+    "68": [
+        "NFT rank = 521",
+        "Name - ATLAS",
+        "Price = $0.003276",
+        "Market cap = $32,142,758",
+        "Volume(24h) = $32.14M",
+        "Supply = 9,803,356,511 ATLAS"
+    ],
+    "69": [
+        "NFT rank = 532",
+        "Name - YOOSHI",
+        "Price = $0.00000008307",
+        "Market cap = $31,032,204",
+        "Volume(24h) = $31.03M",
+        "Supply = 373,352,311,649,005 YOOSHI"
+    ],
+    "70": [
+        "NFT rank = 543",
+        "Name - DEGO",
+        "Price = $2.10",
+        "Market cap = $29,826,135",
+        "Volume(24h) = $29.83M",
+        "Supply = 14,166,092 DEGO"
+    ],
+    "71": [
+        "NFT rank = 546",
+        "Name - VOXEL",
+        "Price = $0.2522",
+        "Market cap = $29,574,629",
+        "Volume(24h) = $29.57M",
+        "Supply = 117,260,798 VOXEL"
+    ],
+    "72": [
+        "NFT rank = 554",
+        "Name - VIDT",
+        "Price = $0.03759",
+        "Market cap = $28,941,249",
+        "Volume(24h) = $28.94M",
+        "Supply = 770,011,370 VIDT"
+    ],
+    "73": [
+        "NFT rank = 560",
+        "Name - GMT",
+        "Price = $0.1084",
+        "Market cap = $28,580,356",
+        "Volume(24h) = $28.58M",
+        "Supply = 263,581,074 GMT"
+    ],
+    "74": [
+        "NFT rank = 562",
+        "Name - GMM",
+        "Price = $0.001365",
+        "Market cap = $28,291,353",
+        "Volume(24h) = $28.29M",
+        "Supply = 20,801,360,198 GMM"
+    ],
+    "75": [
+        "NFT rank = 565",
+        "Name - SPS",
+        "Price = $0.02899",
+        "Market cap = $27,808,189",
+        "Volume(24h) = $27.81M",
+        "Supply = 959,793,721 SPS"
+    ],
+    "76": [
+        "NFT rank = 579",
+        "Name - FIO",
+        "Price = $0.03478",
+        "Market cap = $26,223,665",
+        "Volume(24h) = $26.22M",
+        "Supply = 752,414,893 FIO"
+    ],
+    "77": [
+        "NFT rank = 587",
+        "Name - BOSON",
+        "Price = $0.2236",
+        "Market cap = $25,585,845",
+        "Volume(24h) = $25.59M",
+        "Supply = 114,435,756 BOSON"
+    ],
+    "78": [
+        "NFT rank = 588",
+        "Name - COVAL",
+        "Price = $0.01428",
+        "Market cap = $25,488,972",
+        "Volume(24h) = $25.49M",
+        "Supply = 1,784,838,484 COVAL"
+    ],
+    "79": [
+        "NFT rank = 600",
+        "Name - CUBE",
+        "Price = $1.93",
+        "Market cap = $24,090,646",
+        "Volume(24h) = $24.09M",
+        "Supply = 12,500,000 CUBE"
+    ],
+    "80": [
+        "NFT rank = 603",
+        "Name - DEP",
+        "Price = $0.003294",
+        "Market cap = $23,823,066",
+        "Volume(24h) = $23.82M",
+        "Supply = 7,231,239,464 DEP"
+    ],
+    "81": [
+        "NFT rank = 615",
+        "Name - RARI",
+        "Price = $1.59",
+        "Market cap = $22,967,337",
+        "Volume(24h) = $22.97M",
+        "Supply = 14,441,025 RARI"
+    ],
+    "82": [
+        "NFT rank = 616",
+        "Name - SOUL",
+        "Price = $0.1899",
+        "Market cap = $22,710,967",
+        "Volume(24h) = $22.71M",
+        "Supply = 119,576,149 SOUL"
+    ],
+    "83": [
+        "NFT rank = 618",
+        "Name - RMRK",
+        "Price = $2.37",
+        "Market cap = $22,517,078",
+        "Volume(24h) = $22.52M",
+        "Supply = 9,500,000 RMRK"
+    ],
+    "84": [
+        "NFT rank = 623",
+        "Name - XPR",
+        "Price = $0.001417",
+        "Market cap = $22,264,686",
+        "Volume(24h) = $22.26M",
+        "Supply = 15,617,053,706 XPR"
+    ],
+    "85": [
+        "NFT rank = 645",
+        "Name - NAKA",
+        "Price = $0.282",
+        "Market cap = $20,409,039",
+        "Volume(24h) = $20.41M",
+        "Supply = 72,360,517 NAKA"
+    ],
+    "86": [
+        "NFT rank = 664",
+        "Name - DSLA",
+        "Price = $0.00346",
+        "Market cap = $19,008,373",
+        "Volume(24h) = $19.01M",
+        "Supply = 5,491,802,966 DSLA"
+    ],
+    "87": [
+        "NFT rank = 665",
+        "Name - DERC",
+        "Price = $0.205",
+        "Market cap = $18,946,225",
+        "Volume(24h) = $18.95M",
+        "Supply = 92,430,000 DERC"
+    ],
+    "88": [
+        "NFT rank = 674",
+        "Name - ALU",
+        "Price = $0.02573",
+        "Market cap = $18,518,300",
+        "Volume(24h) = $18.52M",
+        "Supply = 719,755,021 ALU"
+    ],
+    "89": [
+        "NFT rank = 680",
+        "Name - HNS",
+        "Price = $0.03066",
+        "Market cap = $17,889,654",
+        "Volume(24h) = $17.89M",
+        "Supply = 583,728,510 HNS"
+    ],
+    "90": [
+        "NFT rank = 683",
+        "Name - STRM",
+        "Price = $0.01248",
+        "Market cap = $17,570,723",
+        "Volume(24h) = $17.57M",
+        "Supply = 1,408,334,519 STRM"
+    ],
+    "91": [
+        "NFT rank = 690",
+        "Name - RFOX",
+        "Price = $0.01311",
+        "Market cap = $17,197,661",
+        "Volume(24h) = $17.20M",
+        "Supply = 1,312,000,760 RFOX"
+    ],
+    "92": [
+        "NFT rank = 691",
+        "Name - FITFI",
+        "Price = $0.01115",
+        "Market cap = $16,994,652",
+        "Volume(24h) = $16.99M",
+        "Supply = 1,527,461,707 FITFI"
+    ],
+    "93": [
+        "NFT rank = 692",
+        "Name - CAPS",
+        "Price = $0.02544",
+        "Market cap = $16,585,347",
+        "Volume(24h) = $16.59M",
+        "Supply = 651,975,678 CAPS"
+    ],
+    "94": [
+        "NFT rank = 695",
+        "Name - GET",
+        "Price = $1.44",
+        "Market cap = $16,413,188",
+        "Volume(24h) = $16.41M",
+        "Supply = 11,388,258 GET"
+    ],
+    "95": [
+        "NFT rank = 708",
+        "Name - PNT",
+        "Price = $0.2105",
+        "Market cap = $15,695,162",
+        "Volume(24h) = $15.70M",
+        "Supply = 74,408,229 PNT"
+    ],
+    "96": [
+        "NFT rank = 722",
+        "Name - WRLD",
+        "Price = $0.02091",
+        "Market cap = $14,890,817",
+        "Volume(24h) = $14.89M",
+        "Supply = 712,090,665 WRLD"
+    ],
+    "97": [
+        "NFT rank = 739",
+        "Name - JEWEL",
+        "Price = $0.1887",
+        "Market cap = $13,598,222",
+        "Volume(24h) = $13.60M",
+        "Supply = 72,049,372 JEWEL"
+    ],
+    "98": [
+        "NFT rank = 743",
+        "Name - BWO",
+        "Price = $0.1072",
+        "Market cap = $13,328,173",
+        "Volume(24h) = $13.33M",
+        "Supply = 124,217,837 BWO"
+    ],
+    "99": [
+        "NFT rank = 744",
+        "Name - SOCKS",
+        "Price = $44,047.80",
+        "Market cap = $13,302,435",
+        "Volume(24h) = $13.30M",
+        "Supply = 302 SOCKS"
+    ],
+    "100": [
+        "NFT rank = 765",
+        "Name - VEED",
+        "Price = $0.002194",
+        "Market cap = $12,212,794",
+        "Volume(24h) = $12.21M",
+        "Supply = 5,566,374,466 VEED"
+    ]
+}
