@@ -47,14 +47,3 @@ class Parser:
     def save(self, path):
         with open(path, "w", encoding = "utf-8") as f:
             json.dump(self.dict, f, ensure_ascii=False, indent = 4)
-
-
-
-'''FILE_PATH = "crypto.html"
-PARSED_FILE_PATH = "crypto.json"
-
-parser = Parser(source=FILE_PATH)
-
-dict = parser.parse()           
-parser.save(PARSED_FILE_PATH, dict)
-data = parser.get_data()'''
