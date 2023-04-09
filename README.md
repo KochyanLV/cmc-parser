@@ -1,7 +1,7 @@
 # Coinmarketcap parser 
 Coinmarketcap crypto parser
 
-To use the analyzer, download 4 files: "__init_\_.py", "data.py", "download.py" and "parse.py". Then run "__init_\_.py" - and wait for the results. 
+To use the parser, download 4 files: "__init_\_.py", "data.py", "download.py" and "parse.py". Then run "__init_\_.py" - and wait for the results. 
 
 Please note that you should install several packages used in the project!
 
